@@ -1,6 +1,8 @@
 /*
  * File: HangmanCanvas.java
  * ------------------------
+ *  Copyright @Majid Bavand and Hossein Khonsari
+ * -------------------------------------------------- 
  * This file keeps track of the Hangman display.
  */
 
